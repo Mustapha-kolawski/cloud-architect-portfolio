@@ -42,12 +42,12 @@ Cloud security configuration samples.
 
 ## 🛡 Certifications  
 
-- Microsoft Certified: **Azure Solutions Architect Expert (AZ-305)**  
-- Microsoft Certified: **DevOps Engineer Expert (AZ-400)**  
-- AWS Certified: **Solutions Architect – Professional**  
-- Certified Kubernetes Administrator (CKA)  
-- HashiCorp Certified: Terraform Associate (v2)  
-- CISSP Certified  
+![AZ-305](https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect_Expert-blue?logo=microsoftazure)
+![AZ-400](https://img.shields.io/badge/AZ--400-DevOps_Engineer_Expert-blue?logo=microsoftazure)
+![AWS-SA-Pro](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-orange?logo=amazonaws)
+![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-blue?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-Associate_v2-purple?logo=terraform)
+![CISSP](https://img.shields.io/badge/CISSP-Certified_Information_Systems_Security_Professional-darkgreen)
 
 ---
 
