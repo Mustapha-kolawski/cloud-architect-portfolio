@@ -1,5 +1,4 @@
-# Create a polished README.md file with certification badges added
-
+![Banner](./banner.png)
 readme_with_badges = """# 🌍 Cloud Architect Portfolio  
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
