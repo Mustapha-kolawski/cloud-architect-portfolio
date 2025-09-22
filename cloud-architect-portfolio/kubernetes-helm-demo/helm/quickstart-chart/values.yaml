@@ -1,8 +1,0 @@
-
-replicaCount: 2
-image:
-  repository: nginxdemos/hello
-  tag: latest
-service:
-  type: ClusterIP
-  port: 80
