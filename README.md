@@ -56,15 +56,3 @@ Cloud security configuration samples.
 ## 📬 Connect  
 - **LinkedIn:** [Mustapha Seidu](https://www.linkedin.com/in/mustapha-sap-consultant)  
 - **GitHub:** [Mustapha-kolawski](https://github.com/Mustapha-kolawski)  
-
----
-
-> ⚡ *These examples are intentionally minimal so recruiters and hiring managers can scan quickly while seeing real, hands-on skills.*
-"""
-
-# Save the file
-readme_badges_path = "/mnt/data/README.md"
-with open(readme_badges_path, "w") as f:
-    f.write(readme_with_badges)
-
-readme_badges_path
